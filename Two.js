@@ -74,3 +74,4 @@ const date2 = '7/9/2000';
 
 const daysDifference = dateDiffInDays(date1, date2);
 console.log(`The number of days between ${date1} and ${date2} is: ${daysDifference}`);
+//test
